@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals: ftechtx-2
+# CodingNomads Java Fundamentals: ftechtx-3
 
 This project contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
 
